@@ -38,13 +38,13 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  background-color:#e5e5cb;
+  background-color:white;
 }
 
 svg {
   width: 30%;
   height: 30%;
-  background: #bebebe;
+  background: #dedede;
   margin-bottom: 5%;
   border-radius: 32px;
 }
