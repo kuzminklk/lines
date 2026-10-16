@@ -12,6 +12,6 @@ Development: Visual Studio Code
 Programming languages: JavaScript, Python  
 Framework: Flask  
 Markup languages: HTML, CSS → SASS  
-Vector graphic: SVG  
+Vector graphics: SVG  
 Formatting: “.editorconfig”, “.vscode/…”, Prettier, Ruff  
 Version Control: Git, GitHub
